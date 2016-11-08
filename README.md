@@ -4,6 +4,10 @@ Link to skin: http://skins.b2evolution.net/pinkpassion-skin
 
 <img src="skinshot.png"/>
 
+#### v1.1.1
+
+- Skin name fix
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience
